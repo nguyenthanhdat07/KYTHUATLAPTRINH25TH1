@@ -59,9 +59,9 @@ int main() {
             getline(cin, name);
             bool res = false;
             if (res) {
-                    cout << "Found person with name " << name << endl;
-                }
-                else
+                cout << "Found person with name " << name << endl;
+            }
+            else
                 cout << "Person isn't existed" << endl;
             break;
         }
