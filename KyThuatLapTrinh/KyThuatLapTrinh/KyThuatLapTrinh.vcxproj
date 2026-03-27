@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Buoi1.cpp" />
     <ClCompile Include="Buoi2.cpp" />
+    <ClCompile Include="BUOI3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
