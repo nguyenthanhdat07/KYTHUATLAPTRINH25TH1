@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KyThuatLapTrinh", "KyThuatL
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buoi3", "buoi3\buoi3.vcxproj", "{8CA43DF0-04AE-4880-B71A-11F8A87589BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "buoi5", "buoi5\buoi5.vcxproj", "{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{8CA43DF0-04AE-4880-B71A-11F8A87589BC}.Release|x64.Build.0 = Release|x64
 		{8CA43DF0-04AE-4880-B71A-11F8A87589BC}.Release|x86.ActiveCfg = Release|Win32
 		{8CA43DF0-04AE-4880-B71A-11F8A87589BC}.Release|x86.Build.0 = Release|Win32
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Debug|x64.ActiveCfg = Debug|x64
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Debug|x64.Build.0 = Debug|x64
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Debug|x86.ActiveCfg = Debug|Win32
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Debug|x86.Build.0 = Debug|Win32
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Release|x64.ActiveCfg = Release|x64
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Release|x64.Build.0 = Release|x64
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Release|x86.ActiveCfg = Release|Win32
+		{07B22C26-EA93-4FD2-8F0B-B0DE7C260700}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
