@@ -1,4 +1,4 @@
-[#include<iostream>
+#include<iostream>
 #include <string>
 using namespace std;
 struct Author {
@@ -127,4 +127,3 @@ int main()
 
 }
 
-](https://github.com/nguyenthanhdat07/KYTHUATLAPTRINH25TH1.git)
